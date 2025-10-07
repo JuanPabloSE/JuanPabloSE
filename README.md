@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back End`**
 
-Me chamo Juan Pablo, tenho 23 anos e sou natural de Aracaju - SERGIPE. Atualmente, sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tirantes, onde venho fortalecendo minha base acadêmica e expandindo minhas habilidades práticas como desenvolvedor.".
+Me chamo Juan Pablo, tenho 23 anos e sou natural de Aracaju - SERGIPE. Atualmente, sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tirantes, onde venho fortalecendo minha base acadêmica e expandindo minhas habilidades práticas como desenvolvedor.
 
 ### 🤖 Linguagens e Tecnologias
 
