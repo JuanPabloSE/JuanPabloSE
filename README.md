@@ -73,13 +73,13 @@ Me chamo Juan Pablo, tenho 23 anos e sou natural de Aracaju - SERGIPE. Atualment
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablose&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloSE&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanpablose/juanpablose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanpablose/juanpablose/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juanpablose/juanpablose/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanPabloSE/JuanPabloSE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanPabloSE/JuanPabloSE/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JuanPabloSE/JuanPabloSE/output/github-contribution-grid-snake.svg">
 </picture>
