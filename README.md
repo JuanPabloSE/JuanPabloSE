@@ -16,6 +16,24 @@ Me chamo Juan Pablo, tenho 23 anos e sou natural de Aracaju - SERGIPE. Atualment
 
 <img 
     align="left" 
+    alt="Intellij"
+    title="Intellij" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/475654/github-color.svg" 
+    /> 
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
