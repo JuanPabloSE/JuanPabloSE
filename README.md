@@ -3,7 +3,7 @@
 **`Desenvolvedor Back End`**
 
 Me chamo Juan Pablo, tenho 23 anos e sou natural de Aracaju - Sergipe.
-Atualmente, curso o 2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes, onde venho aprimorando meus conhecimentos em desenvolvimento back-end, banco de dados e boas práticas de programação.
+Atualmente, curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes, onde venho aprimorando meus conhecimentos em desenvolvimento back-end, banco de dados e boas práticas de programação.
 
 Sou apaixonado por tecnologia e tenho como foco principal o desenvolvimento back-end, buscando sempre compreender como as aplicações funcionam internamente e como entregar soluções seguras, escaláveis e eficientes.
 
