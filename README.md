@@ -89,13 +89,12 @@ Sou uma pessoa dedicada, curiosa e focada em aprendizado contínuo, sempre explo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=JuanPabloSE&encryptedtouhid&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloSE&theme=radical" 
   />
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanPabloSE/JuanPabloSE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanPabloSE/JuanPabloSE/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JuanPabloSE/JuanPabloSE/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moronioliveira/moronioliveira/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moronioliveira/moronioliveira/output/pacman-contribution-graph.svg">
 </picture>
