@@ -2,12 +2,15 @@
 
 **`Desenvolvedor Back End`**
 
-Me chamo Juan Pablo, tenho 23 anos e sou natural de Aracaju - Sergipe.
-Atualmente, curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes, onde venho aprimorando meus conhecimentos em desenvolvimento back-end, banco de dados e boas práticas de programação.
+Me chamo Juan Pablo, sou desenvolvedor Back-End com foco em Java, Spring Boot e SQL, apaixonado por tecnologia e pelo impacto que soluções bem estruturadas podem gerar nos negócios.
 
-Sou apaixonado por tecnologia e tenho como foco principal o desenvolvimento back-end, buscando sempre compreender como as aplicações funcionam internamente e como entregar soluções seguras, escaláveis e eficientes.
+Atualmente atuo como Estagiário em Implantação de Sistemas na Digte, onde participo da configuração, validação e entrega de soluções utilizando a plataforma Fluig. Essa experiência tem ampliado minha visão sobre processos de negócio, implantação de sistemas e integração entre tecnologia e operação, permitindo entender na prática como soluções tecnológicas são aplicadas no dia a dia das empresas.
 
-Sou uma pessoa dedicada, curiosa e focada em aprendizado contínuo, sempre explorando novas ferramentas e conceitos para evoluir tecnicamente e contribuir em projetos de alto impacto.
+Tenho grande interesse em boas práticas de desenvolvimento, arquitetura de software e integração de sistemas, sempre buscando construir soluções escaláveis, seguras e eficientes. Acredito que tecnologia deve simplificar processos e resolver problemas reais, e esse é o princípio que orienta minha evolução como profissional.
+
+Além do lado técnico, valorizo muito o trabalho em equipe, a colaboração e a troca de conhecimento, entendendo que grandes soluções são construídas de forma conjunta.
+
+Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes, onde continuo fortalecendo minha base técnica e expandindo minhas habilidades no desenvolvimento de software.
 
 <h3 align="left">Conecte-se comigo!</h3>
 
