@@ -28,7 +28,7 @@ Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Uni
 
 ---
 
-### <p align="center">🤖 LINGUAGENS E TECNOLÓGIAS </p>
+### <p align="center">🤖 LINGUAGENS E TECNOLOGIAS </p>
 
 <p align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
