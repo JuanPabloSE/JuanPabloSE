@@ -10,7 +10,7 @@ Tenho grande interesse em boas práticas de desenvolvimento, arquitetura de soft
 
 Além do lado técnico, valorizo muito o trabalho em equipe, a colaboração e a troca de conhecimento, entendendo que grandes soluções são construídas de forma conjunta.
 
-Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes, onde continuo fortalecendo minha base técnica e expandindo minhas habilidades no desenvolvimento de software.
+Atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes, onde continuo fortalecendo minha base técnica e expandindo minhas habilidades no desenvolvimento de software.
 
 <h3 align="center">CONECTE-SE COMIGO!</h3>
 
